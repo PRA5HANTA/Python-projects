@@ -8,4 +8,6 @@ Driver Drowsiness Detection System: Detects drowsiness in drivers, featuring cal
 
 AI Gym Tracker Model: Tracks fitness progress using AI for personalized workout insights.
 
+Sereni – Mental Health Chatbot: An AI-powered chatbot built with Mistral-7B and sentiment analysis to provide 24/7 mental health support. Includes therapy session booking through DocVita integration.
+
 Explore the code, learn from the implementations, and feel free to contribute!
