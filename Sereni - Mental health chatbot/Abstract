@@ -1,3 +1,12 @@
-With the rising prevalence of mental health issues worldwide, a significant number of individuals face challenges in accessing timely and effective support. Barriers such as social stigma, high treatment costs, and the limited availability of mental health professionals often prevent individuals from seeking help. This project presents an AI-powered mental health chatbot that provides real-time emotional support through empathetic, context-aware conversations, enabled by Natural Language Processing (NLP) and a finetuned conversational AI model.
-The chatbot offers users a secure, anonymous, and judgment-free environment to express their thoughts and emotions. A distinctive feature of the system is its integration with the therapist booking platform, DocVita, which enables a streamlined transition from self-help to professional consultation without manual searching. The system places a strong emphasis on user privacy, ensuring that no sensitive information is stored. While not a substitute for clinical therapy, the chatbot serves as an initial support mechanism, guiding users toward appropriate mental health resources when needed. This project aims to enhance the accessibility, affordability, and immediacy of mental health support through AI-driven digital interactions.
+With the rising prevalence of mental health issues worldwide, many individuals struggle to access timely and effective support.
+Barriers such as social stigma, high treatment costs, and a shortage of mental health professionals often discourage help-seeking behavior.
+This project introduces Sereni, an AI-powered mental health chatbot designed to offer real-time emotional support.
+Using Natural Language Processing (NLP) and a finetuned conversational AI model, Sereni enables empathetic, context-aware conversations.
+It provides users with a secure, anonymous, and judgment-free space to express their thoughts and emotions.
+A key feature of Sereni is its integration with the DocVita platform, allowing users to seamlessly book therapy sessions without manual searching.
+The system is built with strong privacy measures, ensuring no sensitive data is stored.
+While not a replacement for clinical therapy, Sereni acts as a first-level support system, guiding users toward professional help when necessary.
+This project aims to make mental health support more accessible, affordable, and immediate through intelligent AI interactions.
+
 Keywords: Mental health chatbot, Natural Language Processing, emotional support, therapist booking, AI-driven therapy
+
